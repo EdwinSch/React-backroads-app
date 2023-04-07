@@ -1,5 +1,5 @@
-## BackRoads React App
+## Backroads App (React)
 
-Single page app for the "BackRoads travel company". Build in React + CSS and utilizing React fundamentals like components and data mapping.
+Single page app for the "Backroads travel company". Build in React + CSS and utilizing React fundamentals like components, data mapping and onSubmit functions.
 
-[Some Link](https://www.johnsmilga.com/)
+🚀 [Deployed Version](https://backroads-travel-react.netlify.app/)
